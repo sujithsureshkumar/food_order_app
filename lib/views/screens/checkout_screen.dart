@@ -224,7 +224,7 @@ class _CheckOutScreenState extends State<CheckOutScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text("Chilli Porottadddd"),
+                Text(product.kitchenItemName),
                 Text("₹ ${product.itemDiscountPrice}"),
               ],
             ),
