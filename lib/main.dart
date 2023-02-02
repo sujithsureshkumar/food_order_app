@@ -3,9 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:food_order_app/controller/product_controller.dart';
 import 'package:food_order_app/controller/wrapper.dart';
 import 'package:food_order_app/firebase_options.dart';
-import 'package:food_order_app/views/screens/checkout_screen.dart';
-import 'package:food_order_app/views/screens/login_page.dart';
-import 'package:food_order_app/views/screens/user_home_page.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
